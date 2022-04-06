@@ -35,7 +35,7 @@ const HomePage = () => {
         borderWidth="1px"
       >
         <Text fontSize="4xl" fontFamily="Work Sans" color="black">
-          Talk-A-Tive
+          Talk-It-Out
         </Text>
       </Box>
       <Box

@@ -111,7 +111,7 @@ const Login = () => {
         width="100%"
         style={{ marginTop: 15 }}
         onClick={() => {
-          setEmail("ritikrajpoot@gmail.com");
+          setEmail("guest@talkitout.com");
           setPassword("123456");
         }}
       >
